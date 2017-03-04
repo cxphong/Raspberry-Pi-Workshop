@@ -1,0 +1,9 @@
+1. Trang web chính thức của Raspberry Pi
+  + Tài liệu
+    https://www.raspberrypi.org/documentation/
+
+  + Forum hỏi đáp
+    https://www.raspberrypi.org/forums/
+
+2. Python tutorial
+  https://www.tutorialspoint.com/python/
