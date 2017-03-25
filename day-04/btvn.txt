@@ -1,0 +1,2 @@
+- Nhấn < 1s -> chụp hình
+- Nhấn > 1s -> quay phim & led chớp tắt chu kỳ 1s -> nhấn tiếp -> kết thúc quay phim
